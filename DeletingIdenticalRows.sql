@@ -1,16 +1,16 @@
 /******************************************************************
-           
-Author: Prathivi Raj Singh                
-Date: 27/01/2023       
+Â Â Â Â Â Â Â Â Â Â Â 
+Author:Â Prathivi Raj SinghÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 
+Date: 27/01/2023Â Â Â Â Â Â Â 
 Purpose: Deleting Identical Rows and keeping unique rows with adding ReviewCode column
 
---EXEC #UniqueRowsRC       
+--EXEC UniqueRowsRCÂ Â Â Â Â Â Â 
 *******************************************************************/
 
 
 
 CREATE OR ALTER PROC
-	#UniqueRowsRC
+	UniqueRowsRC
 AS
 BEGIN
 
